@@ -1,0 +1,16 @@
+INSERT INTO Billing (U_id, First_name, Last_name, Email, Address, City, Zip_code, State, Card_no, CVV, ExpirationDate, Purchase_date) VALUES
+(1, 'John', 'Doe', 'john.doe@email.com', '123 Main St', 'New York', 10001, 'NY', 1234567890123456, 123, '12/25', '2023-11-15'),
+(2, 'Jane', 'Smith', 'jane.smith@email.com', '456 Oak St', 'Los Angeles', 90001, 'CA', 9876543210987654, 456, '09/24', '2023-11-14'),
+(3, 'Bob', 'Johnson', 'bob.johnson@email.com', '789 Elm St', 'Chicago', 60601, 'IL', 1111222233334444, 789, '03/23', '2023-11-13'),
+(4, 'Alice', 'Williams', 'alice@email.com', '567 Pine St', 'San Francisco', 94105, 'CA', 5555666677778888, 321, '06/22', '2023-11-12'),
+(5, 'Charlie', 'Brown', 'charlie.brown@email.com', '890 Cedar St', 'Seattle', 98101, 'WA', 4444333322221111, 654, '01/21', '2023-11-11'),
+(6, 'Emma', 'Davis', 'emma.davis@email.com', '234 Birch St', 'Houston', 77001, 'TX', 9999000011112222, 987, '08/20', '2023-11-10'),
+(7, 'Michael', 'Miller', 'michael.miller@email.com', '876 Maple St', 'Miami', 33101, 'FL', 7777666655554444, 456, '05/19', '2023-11-09'),
+(8, 'Olivia', 'Jones', 'olivia@email.com', '345 Oak St', 'Dallas', 75201, 'TX', 3333444455556666, 123, '02/18', '2023-11-08'),
+(9, 'William', 'Smith', 'william.smith@email.com', '678 Pine St', 'Phoenix', 85001, 'AZ', 2222333344445555, 789, '11/17', '2023-11-07'),
+(10, 'Sophia', 'White', 'sophia.white@email.com', '901 Cedar St', 'Denver', 80202, 'CO', 8888777766665555, 321, '04/16', '2023-11-06'),
+(11, 'James', 'Clark', 'james.clark@email.com', '234 Elm St', 'Atlanta', 30301, 'GA', 1111222233334444, 654, '09/25', '2023-11-05'),
+(12, 'Emily', 'Taylor', 'emily.taylor@email.com', '567 Main St', 'Detroit', 48201, 'MI', 4444333322221111, 987, '06/24', '2023-11-04'),
+(13, 'Daniel', 'Moore', 'daniel.moore@email.com', '890 Oak St', 'San Diego', 92101, 'CA', 9999000011112222, 123, '01/23', '2023-11-03'),
+(14, 'Ava', 'Martin', 'ava.martin@email.com', '123 Cedar St', 'Minneapolis', 55401, 'MN', 5555666677778888, 789, '04/22', '2023-11-02'),
+(15, 'Matthew', 'Hill', 'matthew.hill@email.com', '456 Maple St', 'Portland', 97201, 'OR', 3333444455556666, 321, '07/21', '2023-11-01');
